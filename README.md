@@ -1,4 +1,4 @@
-get it to run
+#get it to run
 
 go mod init <module_name>
 
