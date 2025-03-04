@@ -29,6 +29,9 @@ go get github.com/urfave/cli/v2
 
 don't forget to specify the arguments and the flags
 
+Also possible to add the binary to a folder, add the path of this foleder to your sytem enviroment vars of windows and type the name of the binary file without ".exe", then type start, 
+it will run the node apps of the current directory, if they have a main index.js, app.js or server.js file, it could also be adjusted to suport other file names as well if needed.
+
 
 
 
